@@ -76,6 +76,7 @@ Ember-Cli-Template-Lint
 - Focus Navigation
 - Aria-* Support
 - Render Semantic HTML
+- Image Alt Text
 
 ## Be Magnanimous
     
