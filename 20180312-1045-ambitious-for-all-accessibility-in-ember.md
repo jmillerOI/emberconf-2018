@@ -65,11 +65,11 @@ WCAG 2.0
 ```
 
 ### There's an Addon for that
-Ember-A11y
-Ember-A11y-Testing
-Ember-A11y-Landmarks
-A11y-Announcer
-Ember-Cli-Template-Lint
+- Ember-A11y
+- Ember-A11y-Testing
+- Ember-A11y-Landmarks
+- A11y-Announcer
+- Ember-Cli-Template-Lint
 
 ### Keep In Mind
 - Keyboard Navigation
