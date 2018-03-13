@@ -60,4 +60,11 @@ Optimize for Success
 - Espeically useful on mobile
 ]
 
++ WebAssembly
+- With Glimmer
+- Still to target IE11
+- Currently Base64 string
 
+"The most productive way to build a web app"
+
+#End
