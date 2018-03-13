@@ -53,3 +53,6 @@ the thign you know from CSS
 
 ##### Speaker
 Tobias
+
+##### Slides
+https://speakerdeck.com/turbo87/the-next-generation-of-testing-in-ember-dot-js
