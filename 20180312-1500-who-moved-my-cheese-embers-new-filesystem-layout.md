@@ -43,3 +43,7 @@
 
 ### Create a new layout addon
 `npm install ember-cli/ember-cli MODULE_UNIFICATION=true ember addon my-addon`
+
+[Slides](https://youtu.be/qfnkDyHVJzs?t=22950)
+
+[Quest Issue, Module Unification](https://github.com/emberjs/ember.js/issues/16373)
