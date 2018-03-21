@@ -11,7 +11,9 @@
 
 
 [ember-animated](https://github.com/ember-animation/ember-animated), "Glimmer"-ization of `liquid-fire`
+
 [ef4/living-animation](https://github.com/ef4/living-animation)
+
 
 [Video](https://youtu.be/qfnkDyHVJzs?t=31861)
 
