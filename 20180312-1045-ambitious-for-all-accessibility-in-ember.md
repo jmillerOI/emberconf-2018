@@ -85,6 +85,7 @@ AT - Assistive Technology
 
 SR - Screen Reader
 
+[Video](https://youtu.be/qfnkDyHVJzs?t=8286)
 
 ##### Speaker
 
