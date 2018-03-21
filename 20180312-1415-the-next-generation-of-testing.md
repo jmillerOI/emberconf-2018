@@ -42,7 +42,7 @@ aka taking advantage of inject()
 aka registerAsyncHelper
 
 #### Test Selectors
-the thign you know from CSS
+the thing you know from CSS
 
 `ember-test-selectors` for using `data-test-*` selectors
 
@@ -51,8 +51,9 @@ the thign you know from CSS
 `qunit-dom` ember addon to assert items on the dom
   
 
-##### Speaker
-Tobias
+[Video](https://youtu.be/qfnkDyHVJzs?t=17882)
+[Slides](https://speakerdeck.com/turbo87/the-next-generation-of-testing-in-ember-dot-js)
 
-##### Slides
-https://speakerdeck.com/turbo87/the-next-generation-of-testing-in-ember-dot-js
+##### Speaker
+Tobias Bieniek
+
