@@ -91,4 +91,8 @@ ES5, ES6, Whatever else is next also has influence Ember.
 ## Have a style guide and follow it
 ### Everyone isn't going to love Ember as much as you do and that's ok!
 
+[Video](https://youtu.be/qfnkDyHVJzs?t=29267)
+
+[Slides](https://www.slideshare.net/TaylorJones89/how-to-build-a-bonfire-on-hiring-and-training-ember-developers)
+
 ##### END
